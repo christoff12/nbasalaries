@@ -1,5 +1,5 @@
 # NBA Salary CSV
-Player salaries for each NBA team. 1990 to 2016 season
+Player salaries for each NBA team from 1990 to 2016
 
 ## Fields
 * Team - Current team name used for all seasons
