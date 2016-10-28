@@ -15,4 +15,4 @@ Player salaries for each NBA team from 1990 to 2016
 * Pull in team info for season (wins, losses, etc.)
 
 # Attribution
-Data courtesy Basketball-Reference.com
+Data courtesy [Basketball-Reference.com](http://Basketball-Reference.com "Basketball Reference")
